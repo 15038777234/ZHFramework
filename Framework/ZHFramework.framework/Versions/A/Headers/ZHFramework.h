@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface ZHFramework : NSObject
-+(NSString *)sdkVersion;
+
 @end
